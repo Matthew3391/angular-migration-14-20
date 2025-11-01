@@ -62,11 +62,3 @@ This project demonstrates the migration process from Angular v14 to v20, includi
 ## Contributing
 
 We welcome contributions! Please read our contributing guidelines before submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-<div align="center">
-Made with ❤️ by HERE AND NOW AI
-</div>
